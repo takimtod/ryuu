@@ -1,0 +1,16 @@
+Anda
+Tes
+
+| let a = (await import(*@whiskeysockets/baileys")
+
+let msg = a.default.proto.Message fromObject({
+pininChatMessage: a.default proto.Message PinlnChatMessage.fromObject({
+key: quoted key,
+type: 1,
+senderTimestampMs: 24 * 60 * 60 * 1000
+)
+]
+
+return hisoka.relayMessage(m.from, msg, { messageld: msg.pininChatMessage key.id
+
+P 0010
